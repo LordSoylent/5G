@@ -12,8 +12,7 @@ out collectively by the network. 5G is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the 5G software, see https://5gcore.org/en/download/, or read the
-[original whitepaper](https://5gcore.org/5g.pdf).
+the 5G software, see https://fiveg.cash/
 
 
 Building 5G
